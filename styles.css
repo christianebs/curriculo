@@ -1,0 +1,278 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+body {
+  background-color: #fff0f8;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-transform: uppercase;
+  font-weight: 200;
+  line-height: 2;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h2.light {
+  font-weight: lighter;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+}
+
+p {
+  padding-top: 10px;
+  line-height: 1.2;
+}
+
+a:link {
+    color: black;
+    text-decoration:none;
+  }
+  a:visited {
+    color: black;
+    text-decoration:none;
+  }
+  a:hover {
+    color: #cd2c79;
+    text-decoration:none;
+  }
+  a:active {
+    color: black;
+    text-decoration:none;
+  }
+
+.main-content {
+  min-height: 100vh;
+  width: 80%;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.left-section {
+  grid-column: 1 / span 1;
+  height: 100%;
+  background-image: url("img/bg-25.png");
+}
+
+.right-section {
+  grid-column: 2 / span 1;
+  background-color: #ffe7f3;
+  height: 100%;
+}
+
+.left-content {
+  padding: 10px;
+}
+
+.right-content {
+  padding: 10px;
+}
+
+.profile {
+  width: 100%;
+  text-align: center;
+}
+
+.name {
+  position: absolute;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 0.8;
+  letter-spacing: 2px;
+  left: 24%;
+  top: 230px;
+  color: #cd2c79;
+}
+
+.career {
+  padding: 70px 10px 0px 10px;
+}
+
+.skills {
+  padding: 10px 10px 0px 10px;
+}
+
+.skills_grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+}
+
+.languages {
+  padding: 10px 10px 0px 10px;
+}
+
+.languages_grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+}
+
+.soft-skills {
+  padding: 10px 10px 0px 10px;
+}
+
+.soft-skills ul {
+  padding-left: 40px;
+}
+
+.contact {
+  padding: 10px 10px 20px 10px;
+}
+
+.about-me {
+  background-color: #cc6699;
+  border-radius: 15px 0px 0px 15px;
+  color: white;
+  margin: 0px -10px 0px -20px;
+  padding: 10px 20px 20px 30px;
+}
+
+.education {
+  padding: 10px 10px 0px 10px;
+}
+
+.bootcamps {
+  padding: 10px 10px 0px 10px;
+}
+
+.bootcamps_grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding-top: 10px;
+}
+
+.bootcamps-content {
+  background: #333;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 14px;
+
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+
+  justify-content: center;
+}
+
+.size {
+  height: 20px;
+  width: 100px;
+}
+
+.i-like {
+  padding: 10px 0px 0px 10px;
+}
+
+.i-like_grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-gap: 0px;
+}
+
+.footer {
+  grid-column: 1 / span 2;
+  background-color: #cd2c79;
+  padding: 10px 0px 5px 0px;
+}
+
+.footer_grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.footer_grid_left {
+  padding-right: 75px;
+  text-align: end;
+}
+
+.footer_grid_right {
+  margin-left: -73px;
+  padding-left: 17px;
+  text-align: start;
+}
+
+/*Media Querries*/
+@media screen and (max-width: 823px) {
+  h2 {
+    font-size: 16px;
+    line-height: 1.2;
+  }
+
+  h2.light {
+    font-size: 16px;
+    line-height: 1.2;
+    padding-bottom: 5px;
+  }
+
+  .name {
+    left: 17%;
+  }
+
+  .skills_grid {
+    grid-template-columns: auto auto;
+  }
+
+  .soft-skills ul {
+    padding-left: 30px;
+  }
+
+  .about-me {
+    padding: 10px 10px 20px 30px;
+  }
+
+  .bootcamps_grid {
+    grid-template-columns: auto auto;
+  }
+
+  .i-like_grid {
+    grid-template-columns: auto auto auto;
+  }
+}
+
+@media screen and (max-width: 681px) {
+}
+
+@media screen and (max-width: 780px) {
+}
+
+@media screen and (max-width: 780px) {
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 700px) {
+}
+
+@media screen and (max-width: 390px) {
+  .right-section {
+    grid-column: 1 / span 1;
+  }
+
+  .name {
+    left: 24%;
+  }
+
+  .career {
+    padding-top: 50px;
+  }
+}
