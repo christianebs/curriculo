@@ -217,10 +217,19 @@ a:active {
   text-decoration: white;
 }
 
-.footer-by a:visited{
+.footer-by a:link {
   color: white;
 }
-.footer-by a:hover{
+
+.footer-by a:visited {
+  color: white;
+}
+
+.footer-by a:hover {
+  color: white;
+}
+
+.footer-by a:active {
   color: white;
 }
 
