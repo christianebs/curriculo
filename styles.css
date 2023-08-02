@@ -272,6 +272,19 @@ a:active {
 }
 
 @media screen and (max-width: 681px) {
+
+  .right-section {
+    grid-column: 1 / span 1;
+  }
+
+  .name {
+    left: 24%;
+  }
+
+  .career {
+    padding-top: 50px;
+  }
+  
 }
 
 @media screen and (max-width: 780px) {
