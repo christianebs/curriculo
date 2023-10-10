@@ -29,14 +29,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ### :mortar_board: Formação
 
--[x] **Sistemas de Informação**
+- [x]  **Sistemas de Informação**
 
 ```
 - Universidade Estácio de Sá
 - 2009 - 2013
 ```
 
--[ ] **Análise e Desenvolvimento de Sistemas**
+- [ ] **Análise e Desenvolvimento de Sistemas**
 
 ```
 - Universidade Estácio de Sá
@@ -63,7 +63,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ### :books: Cursos
 
--[ ] **Desenvolvimento de Software - Foco em Backend**
+- [ ] **Desenvolvimento de Software - Foco em Backend**
 
 ```
 - iFood | Cubos Academy
@@ -72,11 +72,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - Conteúdo: JavaScript | Node.js | SQL | PostgreSQL | Git | GitHub
 ```
 
--[ ] **Vem Ser Tech - Back End** 
+- [ ] **Vem Ser Tech - Back End** 
 
 ```
 - iFood | Ada Tech
-- Período: 06/10/2023 - 06/03/2024
+- Período: 06/10/2023 - 15/03/2024
+- Horas: 324
+- Conteúdo: JavaScript | Node.js | MySQL | HTML | Jest | Git | GitHub
 ```
 
 ## :card_file_box: Bootcamps
