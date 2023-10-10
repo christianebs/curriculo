@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 340;
+  --hue-color: 275;
 
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -531,7 +531,7 @@ img {
 }
 
 .skills__js {
-  width: 45%;
+  width: 50%;
 }
 
 .skills__python {
@@ -557,6 +557,18 @@ img {
 
 .skills__postman {
   width: 15%;
+}
+
+.skills__postgres {
+  width: 10%;
+}
+
+.skills__nodejs {
+  width: 30%;
+}
+
+.skills__nodejs {
+  width: 30%;
 }
 
 .skills__close .skills__list {
