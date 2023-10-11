@@ -40,7 +40,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ```
 - Universidade Estácio de Sá
-- 2009 - 2025
+- 2023 - 2025
 ```
 
 ### :briefcase: Experiência
