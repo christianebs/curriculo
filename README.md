@@ -29,13 +29,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ### :mortar_board: Formação
 
-- [x]  **Sistemas de Informação**
-
-```
-- Universidade Estácio de Sá
-- 2009 - 2013
-```
-
 - [ ] **Análise e Desenvolvimento de Sistemas**
 
 ```
@@ -43,15 +36,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - 2023 - 2025
 ```
 
+- [x]  **Sistemas de Informação**
+
+```
+- Universidade Estácio de Sá
+- 2009 - 2013
+```
+
 ### :briefcase: Experiência
-
-**Estagiária de Programação Visual**
-
-```
-- Conselho Regional de Administração do Rio do Janeiro
-- Período: 15/08/2011 - 14/08/2013
-- Atribuições: Fui responsável pelo atualização e manutenção dos sites da empresa (HTML e CSS), realizei a edição de imagens e envio de certificados via e-mail.
-```
 
 **Assessora Técnica de Programação Visual** 
 
@@ -61,16 +53,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - Atribuições: Fui responsável pelo gerenciamento, atualização e manutenção dos sites da organização, utilizando a plataforma WordPress. Além disso, também realizei a edição de imagens, envio de e-mail marketing e SMS, assim como a análise de relatórios junto ao Google Analytics.
 ```
 
+**Estagiária de Programação Visual**
+
+```
+- Conselho Regional de Administração do Rio do Janeiro
+- Período: 15/08/2011 - 14/08/2013
+- Atribuições: Fui responsável pelo atualização e manutenção dos sites da empresa (HTML e CSS), realizei a edição de imagens e envio de certificados via e-mail.
+```
+
 ### :books: Cursos
-
-- [ ] **Desenvolvimento de Software - Foco em Backend**
-
-```
-- iFood | Cubos Academy
-- Período: 01/08/2023 - 11/12/2023
-- Horas: 510
-- Conteúdo: JavaScript | Node.js | SQL | PostgreSQL | Git | GitHub
-```
 
 - [ ] **Vem Ser Tech - Back End** 
 
@@ -81,13 +72,22 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - Conteúdo: JavaScript | Node.js | MySQL | HTML | Jest | Git | GitHub
 ```
 
+- [ ] **Desenvolvimento de Software - Foco em Backend**
+
+```
+- iFood | Cubos Academy
+- Período: 01/08/2023 - 11/12/2023
+- Horas: 510
+- Conteúdo: JavaScript | Node.js | SQL | PostgreSQL | Git | GitHub
+```
+
 ## :card_file_box: Bootcamps
 
 - **Santander Bootcamp 2023 - Backend Java**
 
 ```
 - Santander | Digital Innovation One
-- Período: 16/08/2023 - 20/10/2023
+- Período: 16/08/2023 - 19/10/2023
 - Horas: 88
 - Conteúdo: Java | SQL | Git | GitHub
 ```
