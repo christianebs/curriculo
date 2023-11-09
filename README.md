@@ -137,6 +137,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - Conteúdo: Java | Git | GitHub
 ```
 
+## :card_index: Porfólio
+
+**API Banco Digital CUBOS**
+
+Este projeto consiste em uma API desenvolvida em JavaScript para um banco digital, sendo uma iniciativa proposta pela Cubos Academy, no segundo módulo, em parceria com o iFood. A API abrange funcionalidades essenciais, incluindo o gerenciamento de contas, realização de transações financeiras e facilitação de consultas.
+
+:arrow_right: [Link do Projeto](https://github.com/christianebs/js-banco-digital-cubos)
+
+**API de Controle Financeiro**
+
+Este projeto é uma API de Controle Financeiro em JavaScript, criada no terceiro módulo da Cubos Academy e iFood. Inclui funcionalidades como cadastro e login de usuários, gerenciamento de perfil, listagem e edição de categorias e transações, além de relatórios detalhados e filtros de transações por categoria.
+
+:arrow_right: [Link do Projeto](https://github.com/christianebs/js-controle-financeiro-dindin)
+
+
 ## :raising_hand: Soft Skills
 
 - Habilidade para trabalho em equipe

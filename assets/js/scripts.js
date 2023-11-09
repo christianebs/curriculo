@@ -1,3 +1,5 @@
+//import Swiper from "swiper";
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById("nav-menu"),
   navToggle = document.getElementById("nav-toggle"),
@@ -91,20 +93,20 @@ modalCloses.forEach((modalClose) => {
   });
 });
 
-/*==================== PORTFOLIO SWIPER  ====================
-let swiperPortfolio = new Swiper('.portfolio__container', {
-    cssMode: true,
-    loop: true,
-
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true
-    }
-  });*/
+//-- ==================== PORTFOLIO SWIPER  ====================
+/*let swiper = new Swiper(".portfolio__container", {
+  cssMode: true,
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+  },
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+  mousewheel: true,
+  keyboard: true,
+});*/
 
 /*==================== TESTIMONIAL ==================== 
 let swiperTestimonial = new Swiper('.testimonial__container', {

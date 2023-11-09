@@ -389,7 +389,7 @@ img {
   align-items: center;
 }
 
-.button--smaill {
+.button--small {
   padding: 0.75rem 1rem;
 }
 
@@ -788,7 +788,7 @@ img {
   transform: translateX(0.25rem);
 }
 
-/*.swiper-button-prev::after,
+.swiper-button-prev::after,
 .swiper-button-next::after {
   content: '';
 }
@@ -806,11 +806,11 @@ img {
   right: -.5rem;
 }
 
-.swiper-container-horizontal > .swiper-pagination-bullets {
+.swiper-horizontal > .swiper-pagination-bullets {
   bottom: -2.5rem;
 }
 
-.swiper-pagination-bullets-active {
+.swiper-pagination-bullet-active {
   background-color: var(--first-color);
 }
 
@@ -818,7 +818,7 @@ img {
 .swiper-button-next,
 .swiper-pagination-bullet {
 outline: none;
-} */
+}
 
 
 /*==================== PROJECT IN MIND ====================*/
@@ -892,7 +892,7 @@ outline: none;
   font-size: 1.2rem;
 }
 
-/* .swiper-container .swiper-pagination-testimonial {
+.swiper .swiper-pagination-testimonial {
   bottom: 0;
 } */
 
@@ -1378,7 +1378,7 @@ outline: none;
     right: -3.5rem;
   }
 
-  .swiper-container-horizontal > .swiper-pagination-bullets{
+  .swiper-horizontal > .swiper-pagination-bullets{
     bottom: -4.5rem;
   }
 
