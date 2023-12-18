@@ -76,7 +76,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ```
 - iFood | Cubos Academy
-- Período: 01/08/2023 - 11/12/2023
+- Período: 01/08/2023 - 13/12/2023
 - Horas: 510
 - Conteúdo: JavaScript | Node.js | SQL | PostgreSQL | Git | GitHub
 ```

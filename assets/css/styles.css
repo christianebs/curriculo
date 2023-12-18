@@ -510,6 +510,10 @@ img {
   background-color: var(--first-color);
 }
 
+.skills__skills {
+  width: 100%;
+}
+
 .skills__html {
   width: 70%;
 }
