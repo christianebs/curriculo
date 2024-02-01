@@ -9,7 +9,7 @@ Tenho 33 anos e no momento estou procurando uma oportunidade de estágio na áre
 
 ## :purple_circle: Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em linguagens de programação, como Java, Python e JavaScript, além de experiência em WordPress, HTML e CSS adquirida em projetos de trabalho. Me considero uma pessoa proativa e comunicativa, sempre buscando adquirir novos conhecimentos e experiências.
+Sou estudante de Engenharia de Software com conhecimentos em linguagens de programação, como Java, Python e JavaScript, além de experiência em WordPress, HTML e CSS adquirida em projetos de trabalho. Me considero uma pessoa proativa e comunicativa, sempre buscando adquirir novos conhecimentos e experiências.
 
 ## :woman_mechanic: Skills
 
@@ -29,11 +29,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 
 ### :mortar_board: Formação
 
-- [ ] **Análise e Desenvolvimento de Sistemas**
+- [ ] **Engeharia de Software**
 
 ```
 - Universidade Estácio de Sá
-- 2023 - 2025
+- 2024 - 2029
 ```
 
 - [x]  **Sistemas de Informação**
@@ -72,12 +72,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimentos em lin
 - Conteúdo: JavaScript | Node.js | MySQL | HTML | Jest | Git | GitHub
 ```
 
-- [ ] **Desenvolvimento de Software - Foco em Backend**
+- [x] **Desenvolvimento de Software - Foco em Backend**
 
 ```
 - iFood | Cubos Academy
 - Período: 01/08/2023 - 13/12/2023
-- Horas: 510
+- Horas: 500
 - Conteúdo: JavaScript | Node.js | SQL | PostgreSQL | Git | GitHub
 ```
 
