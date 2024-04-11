@@ -63,7 +63,7 @@ Sou estudante de Engenharia de Software com conhecimentos em linguagens de progr
 
 ### :books: Cursos
 
-- [ ] **Vem Ser Tech - Back End** 
+- [x] **Vem Ser Tech - Back End** 
 
 ```
 - iFood | Ada Tech
